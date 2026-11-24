@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: ab8d96d5823ffa146b8ec44154714065
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1294302882273073073
+    second: returnTomENUY_0
+  - first:
+      213: 6254999122751361857
+    second: returnTomENUY_1
+  - first:
+      213: 1279117030398631392
+    second: returnTomENUY_2
+  - first:
+      213: -298331463993695629
+    second: returnTomENUY_3
+  - first:
+      213: 134965679133996823
+    second: returnTomENUY_4
+  - first:
+      213: 453742807591358172
+    second: returnTomENUY_5
+  - first:
+      213: 5268994049821455824
+    second: returnTomENUY_6
+  - first:
+      213: 6946338440569484424
+    second: returnTomENUY_7
+  - first:
+      213: -680777106154998933
+    second: returnTomENUY_8
+  - first:
+      213: 482911564086301982
+    second: returnTomENUY_9
+  - first:
+      213: 8783584002980073901
+    second: returnTomENUY_10
+  - first:
+      213: -1240697347686470448
+    second: returnTomENUY_11
+  - first:
+      213: 7468621963379249731
+    second: returnTomENUY_12
+  - first:
+      213: 4945910403042094071
+    second: returnTomENUY_13
+  - first:
+      213: -4029928636596236960
+    second: returnTomENUY_14
+  - first:
+      213: 2608895591817645756
+    second: returnTomENUY_15
+  - first:
+      213: -5116827435713634176
+    second: returnTomENUY_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: returnTomENUY_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 986
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b796a92d9946f110800000000000000
+      internalID: 1294302882273073073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a04e7aeff5f979f4ca596419838bd174
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      returnTomENUY_0: 1294302882273073073
+      returnTomENUY_1: 6254999122751361857
+      returnTomENUY_10: 8783584002980073901
+      returnTomENUY_11: -1240697347686470448
+      returnTomENUY_12: 7468621963379249731
+      returnTomENUY_13: 4945910403042094071
+      returnTomENUY_14: -4029928636596236960
+      returnTomENUY_15: 2608895591817645756
+      returnTomENUY_16: -5116827435713634176
+      returnTomENUY_2: 1279117030398631392
+      returnTomENUY_3: -298331463993695629
+      returnTomENUY_4: 134965679133996823
+      returnTomENUY_5: 453742807591358172
+      returnTomENUY_6: 5268994049821455824
+      returnTomENUY_7: 6946338440569484424
+      returnTomENUY_8: -680777106154998933
+      returnTomENUY_9: 482911564086301982
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
